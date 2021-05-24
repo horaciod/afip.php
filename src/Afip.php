@@ -14,6 +14,7 @@
  **/
 
 class Afip {
+	const VERSION =  '0.7.1'; 
 	/**
 	 * File name for the WSDL corresponding to WSAA
 	 *
