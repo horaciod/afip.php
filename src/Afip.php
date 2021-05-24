@@ -10,10 +10,11 @@
  *
  * @author 	Afip SDK afipsdk@gmail.com
  * @package Afip
- * @version 0.5
+ * @version 0.7.1
  **/
 
 class Afip {
+	const VERSION =  '0.7.1'; 
 	/**
 	 * File name for the WSDL corresponding to WSAA
 	 *
